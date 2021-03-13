@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundColor="#dcdcdc">
+        <Frame X="10px" Y="10px" Width="565px" Height="335px" Flow="decoration0" Right="1px" Bottom="519px" BackgroundImage="../_Obrazki/2021-02-28_124850.png" BackgroundRepeat="stretch" />
+        <Frame X="11px" Y="359px" Width="460px" Height="148px" Flow="body" Right="105px" Bottom="357px" />
+        <Frame X="6px" Y="513px" Width="507px" Height="169px" FlowIndex="2" Flow="body" Right="63px" Bottom="182px" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundColor="#dcdcdc">
+        <Frame X="17px" Y="10px" Width="543px" Height="82px" Flow="header" Right="16px" Bottom="772px" />
+        <Frame X="5px" Y="799px" Width="567px" Height="60px" Flow="footer" Right="4px" Bottom="5px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">Strona <MadCap:variable xhtml:name="System.PageNumber" /> (<MadCap:variable xhtml:name="System.PageCount" />)</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="23px" Y="105px" Width="543px" Height="676px" Flow="body" Right="10px" Bottom="83px" />
+    </Page>
+</PageStyles>

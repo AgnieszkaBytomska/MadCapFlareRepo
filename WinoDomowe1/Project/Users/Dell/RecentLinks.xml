@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Repos_GitHub\MadCapFlare\WinoDomowe1\Content\_Obrazki\2021-02-28_124850.png" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Repos_GitHub\MadCapFlare\WinoDomowe1\Content\ZZ_Zasoby\WinoDomoweReuseSnippet.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Repos_GitHub\MadCapFlare\WinoDomowe1\Content\A_Opisy\7_Fermentacja.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+</RecentLinks>
