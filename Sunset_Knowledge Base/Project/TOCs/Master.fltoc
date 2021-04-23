@@ -58,6 +58,6 @@
       Link="/Content/D_Checklist/Checklist for Complete User Manual.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Checklist/Checklist for Safety Instructions and Warnings in the Manual .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/D_Checklist/Checklist for Safety Instructions and Warnings in the User Manual .htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
 </CatapultToc>
