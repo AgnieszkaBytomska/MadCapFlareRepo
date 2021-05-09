@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/Repos_GitHub/MadCapFlare/Passolo/Output/Dell/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="Translation"
+      glossTerm="Glossary.Term0"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">is the step that the content gets translated by coworkers. In this step you can add comments.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Pre-translation"
+      glossTerm="Glossary.Term2"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">follows right after your content is uploaded and it automatically check and fills up newly added content with translations. The source of these translations can be from your Translation Memory (previous translations) or from an automated translation using Machine Translation..</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Translated and Validated"
+      glossTerm="Glossary.Term3"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">is considered the content that has finished the localization process and can be consumed by your application or project</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="No status = untranslated"
+      glossTerm="Glossary.Term4"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">it's the step where you introduce the content you want localized to the software, upload content.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Translated and for Review"
+      glossTerm="Glossary.Term5"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">is referring to translated content and is the step where MO check the translations and mark them as "reviewed". This essentially means that the content passes the review step and is ready to be used.</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls />
+</CatapultGlobalGlossaryCache>

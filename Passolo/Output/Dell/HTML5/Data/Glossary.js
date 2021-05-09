@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'No status = untranslated',c:0},{t:'Pre-translation',c:0},{t:'Translated and for Review',c:0},{t:'Translated and Validated',c:0},{t:'Translation',c:0}]});

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../../Passolo output/Output/PDF/PDF.pdf"
+  BuildVersion="16.2.7685.28170">
+  <Files>
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/F_Images/2.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/F_Images/4.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/F_Images/3.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/F_Images/2021-05-09_152555.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Hero-Image-Print.png" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/Images/Logo.eps" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/Resources/TableStyles/Alternate-Row-Color.css" />
+    <Url
+      Source="../../Passolo output/Output/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Dell/Temporary/PDF/PDF_1CEA9F1B/F_Images/1.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

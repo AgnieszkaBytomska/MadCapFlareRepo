@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Repos_GitHub\MadCapFlare\Passolo\Content\Resources\Images\2021-05-09_163446.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Repos_GitHub\MadCapFlare\Passolo\Content\B-Feature-Topics\Translation Workflow Process.htm" />
+    </Dialog>
+</RecentLinks>

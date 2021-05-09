@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://sdl.ssl.cdn.sdlmedia.com/636566180404973662MO.pdf" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://sdl.ssl.cdn.sdlmedia.com/636566180404973662MO.pdf" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="https://www.youtube.com/watch?v=4dIWOo7CXXc" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Web" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
